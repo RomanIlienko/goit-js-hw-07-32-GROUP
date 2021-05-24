@@ -15,3 +15,4 @@ let liElementsArray = ingredients.map(currentValue => {
 });
   
   refParrentEl.append(...liElementsArray);
+  
